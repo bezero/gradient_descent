@@ -9,13 +9,13 @@ column (Y) must represent the corresponding output
 f_ype:
 
 1 - 2nd order polynomial <br>
-2 - 3rd order polynomial \n
-3 - 2nd order Fourier series \n
-4 - 4th order Fourier series \n
+2 - 3rd order polynomial <br>
+3 - 2nd order Fourier series <br>
+4 - 4th order Fourier series <br>
 
 Output Arguments:
 
-w        parameters of the resultant function \n
-y_out    output generated from the resultant function \n
-E        error in each itteration \n
+w        parameters of the resultant function <br>
+y_out    output generated from the resultant function <br>
+E        error in each itteration <br>
 niter    total number of itterations 
