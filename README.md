@@ -8,7 +8,7 @@ column (Y) must represent the corresponding output
 
 f_ype:
 
-1 - 2nd order polynomial \n
+1 - 2nd order polynomial <br>
 2 - 3rd order polynomial \n
 3 - 2nd order Fourier series \n
 4 - 4th order Fourier series \n
