@@ -6,14 +6,14 @@ function type to fit the given data. It uses gradient descent method to
 learn. The first column in the data file must represent input (X) and the second 
 column (Y) must represent the corresponding output
 
-f_ype:
+f_ype
 
 1 - 2nd order polynomial \n
 2 - 3rd order polynomial \n
 3 - 2nd order Fourier series \n
 4 - 4th order Fourier series \n
 
-Output Arguments:
+Output Arguments
 
 w        parameters of the resultant function \n
 y_out    output generated from the resultant function \n
